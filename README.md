@@ -6,11 +6,10 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guidoaguiar&theme=synthwave" alt="guidoaguiar" /></a> </p> -->
 
 
-- 🔭 I’m currently working on a personal project, an app related to Rainbow Six Siege.
-- 🌱 I’m currently learning SpringBoot, Docker and always studying Kotlin and Flutter.
-- 💬 Ask me about **Jetpack Compose, Kotlin Multiplatform, Flutter**
+- 🔭 I’m currently working on a personal project, an ESP32 to monitor water pump wirelessly via LoraWan.
+- 🌱 I’m currently working PHP/Laravel.
 - ⚡ Fun fact: When not working, I'm either playing, coding or spending time with my wife and dog.
-- 👯 I’m looking to collaborate on mobile app projects.
+- 👯 I’m looking to collaborate on many kinds of projects.
 
 ## 📫 How to reach me:
 
@@ -22,7 +21,7 @@
 
 
 <!--
-**guidoaguiar/guidoaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**guidoaguiar/guidoaguiar** is a ✨ _special_ ✨ repository because its `README.md`.
 
 Here are some ideas to get you started:
 
