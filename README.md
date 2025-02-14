@@ -17,7 +17,9 @@
 
 - [**LinkedIn**](https://www.linkedin.com/in/guidoaguiar/)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=guidoaguiar&" alt="guidoaguiar" /></p>
+<!--<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=guidoaguiar&" alt="guidoaguiar" /></p>-->
+
+<p><a href="https://app.daily.dev/guidoaguiar"><img src="https://api.daily.dev/devcards/v2/5lmgpr9wAQR3y09jYpvn0.png?type=wide&r=kz8" width="652" alt="Guido Aguiar's Dev Card"/></a></p>
 
 
 <!--
