@@ -21,7 +21,9 @@
 
 <p><a href="https://app.daily.dev/guidoaguiar"><img src="https://api.daily.dev/devcards/v2/5lmgpr9wAQR3y09jYpvn0.png?type=wide&r=kz8" width="652" alt="Guido Aguiar's Dev Card"/></a></p>
 
-
+## Coding Time:
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@bdf00ba5-1efb-41bb-8b83-cdf2ecd36588/367da3b7-135d-450e-ba52-7e60b3d44a78.png" /></a>
+<figure><embed src="https://wakatime.com/share/@bdf00ba5-1efb-41bb-8b83-cdf2ecd36588/4194aa2a-4328-46b9-a776-ac4f86dd26d2.svg"></embed></figure>
 <!--
 **guidoaguiar/guidoaguiar** is a ✨ _special_ ✨ repository because its `README.md`.
 
