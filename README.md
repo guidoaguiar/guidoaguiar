@@ -1,40 +1,90 @@
-<h1 align="left">Hello World👋, I'm Guido Aguiar</h1>
-<h3 align="left">I enjoy making random stuff just for fun. 😁</h3>
+<div align="center">
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guidoaguiar&theme=synthwave&show_icons=true&locale=en" alt="guidoaguiar" /></p>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guidoaguiar&show_icons=true&locale=en&theme=synthwave&layout=compact" alt="guidoaguiar" /></p>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guidoaguiar&theme=synthwave" alt="guidoaguiar" /></a> </p> -->
+# 👋 Hello World, I'm Guido Aguiar
 
+### Full-Stack Developer | IoT Enthusiast | Open Source Contributor
 
-- 🔭 I’m currently working on a personal project, an ESP32 to monitor water pump wirelessly via LoraWan.
-- 🌱 I’m currently working PHP/Laravel.
-- ⚡ Fun fact: When not working, I'm either playing, coding or spending time with my wife and dog.
-- 👯 I’m looking to collaborate on many kinds of projects.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guidoaguiar/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guidoaguiar@live.com)
+[![Daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/guidoaguiar)
 
-## 📫 How to reach me:
+</div>
 
-- **guidoaguiar@live.com**
+---
 
-- [**LinkedIn**](https://www.linkedin.com/in/guidoaguiar/)
+## 🚀 About Me
 
-<!--<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=guidoaguiar&" alt="guidoaguiar" /></p>-->
+I'm a software engineer who enjoys building random stuff just for fun! Currently working with **PHP/Laravel** at **Logcomex**, where I develop maritime shipping and logistics systems. When I'm not coding, you'll find me gaming, riding motorcycles, or spending quality time with my wife and dog.
 
-<p><a href="https://app.daily.dev/guidoaguiar"><img src="https://api.daily.dev/devcards/v2/5lmgpr9wAQR3y09jYpvn0.png?type=wide&r=kz8" width="652" alt="Guido Aguiar's Dev Card"/></a></p>
+- 🔭 **Current Project:** Building an ESP32-based water pump monitoring system using LoRaWAN
+- 🌱 **Learning:** AI agents, Kubernetes, and serverless architecture
+- 🏍️ **Passion Project:** Developing a motorcycle club management application
+- 👯 **Open to:** Collaborating on IoT projects, open-source contributions, and innovative ideas
 
-## Coding Time:
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@bdf00ba5-1efb-41bb-8b83-cdf2ecd36588/367da3b7-135d-450e-ba52-7e60b3d44a78.png" /></a>
-<figure><embed src="https://wakatime.com/share/@bdf00ba5-1efb-41bb-8b83-cdf2ecd36588/4194aa2a-4328-46b9-a776-ac4f86dd26d2.svg"></embed></figure>
-<!--
-**guidoaguiar/guidoaguiar** is a ✨ _special_ ✨ repository because its `README.md`.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages & Frameworks
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Database & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Tools & Technologies
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=guidoaguiar&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=guidoaguiar&theme=synthwave&layout=compact&hide_border=true" alt="Top Languages" height="170" />
+
+</div>
+
+---
+
+## ⏱️ Coding Activity
+
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/bdf00ba5-1efb-41bb-8b83-cdf2ecd36588.svg?style=for-the-badge)](https://wakatime.com/@bdf00ba5-1efb-41bb-8b83-cdf2ecd36588)
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@bdf00ba5-1efb-41bb-8b83-cdf2ecd36588/367da3b7-135d-450e-ba52-7e60b3d44a78.png" width="600" alt="Coding Stats" /></a>
+
+</div>
+
+---
+
+## 🏆 Developer Card
+
+<div align="center">
+
+<a href="https://app.daily.dev/guidoaguiar">
+  <img src="https://api.daily.dev/devcards/v2/5lmgpr9wAQR3y09jYpvn0.png?type=wide&r=kz8" width="600" alt="Guido Aguiar's Dev Card"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=guidoaguiar&color=blueviolet&style=for-the-badge)
+
+</div>
