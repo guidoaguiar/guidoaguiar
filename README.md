@@ -46,29 +46,6 @@ I'm a software engineer who enjoys building random stuff just for fun! Currently
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=guidoaguiar&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=guidoaguiar&theme=synthwave&layout=compact&hide_border=true" alt="Top Languages" height="170" />
-
-</div>
-
----
-
-## ⏱️ Coding Activity
-
-<div align="center">
-
-[![wakatime](https://wakatime.com/badge/user/bdf00ba5-1efb-41bb-8b83-cdf2ecd36588.svg?style=for-the-badge)](https://wakatime.com/@bdf00ba5-1efb-41bb-8b83-cdf2ecd36588)
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@bdf00ba5-1efb-41bb-8b83-cdf2ecd36588/367da3b7-135d-450e-ba52-7e60b3d44a78.png" width="600" alt="Coding Stats" /></a>
-
-</div>
-
----
-
 ## 🏆 Developer Card
 
 <div align="center">
